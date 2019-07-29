@@ -1,0 +1,52 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: 'Cabin', sans-serif;
+  color: #000000;
+}
+.hind {
+  font-family: 'Hind', sans-serif;
+}
+.tinto {
+  background-color: #841526;
+  color: white;
+}
+.text_tinto {
+  color: #dc4f5f;
+}
+.rose {
+  background-color: #dc4f5f;
+}
+.relativo {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+  .centered_sm {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .centered_form_xs {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+.img_xs {
+  width: 40px;
+}
+a {
+  color: white;
+}
+a:hover {
+  color: white;
+}

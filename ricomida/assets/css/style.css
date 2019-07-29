@@ -1,0 +1,25 @@
+body {
+  font-family: 'Cabin', sans-serif;
+}
+
+.langosta {
+font-family: 'Lobster', cursive;
+font-size: 1.5em;
+color: #fff;
+}
+
+
+.carousel-indicators {
+  top: 200px;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: black;
+}
+
+.newsletter {
+  background-color: #dc3545;
+}

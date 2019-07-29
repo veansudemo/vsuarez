@@ -1,0 +1,118 @@
+body {
+  text-align: center;
+  color: #ffffff;
+  margin: 0;
+  background-color: #000000;
+  font-family: 'Raleway', sans-serif;
+}
+
+body * {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+h1 {
+  font-weight: 500;
+  font-size: 3.125rem;
+  margin: 0.25em;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 2.5rem;
+  margin-bottom: 0.25em
+}
+
+h3 {
+  font-weight: 100;
+  font-size: 1.5rem;
+  margin-bottom: 0.25em
+}
+
+p {
+  font-size: 1rem;
+  margin-bottom: 0.25em
+}
+
+header img {
+  width: 100%;
+  min-width: 100%;
+}
+
+.iguana01{
+  width: 399px;
+  height: 237px;
+  vertical-align: middle;
+  padding: 45px 150px 66px 106px;
+}
+
+.desc-section {
+  text-align: right;
+  background: #000000;
+  color: #ffffff;
+}
+
+.texto {
+  vertical-align: middle;
+  display: inline-block;
+  text-align: left;
+  width: 37%;
+  min-width:20%;
+  white-space: pre-line;
+}
+
+.icons-section {
+  text-align: center;
+  background: #1e1a13;
+  color: #ffffff;
+  padding:75px;
+}
+
+.iconos {
+  display: inline-block;
+}
+
+.iconos a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 39px;
+}
+
+.iconos i {
+    margin: 0 0.25em 0.25em;
+    padding: 30px 70px 10px 70px;
+}
+
+article {
+  display: inline-block;
+  width: 30%;
+}
+
+.img {
+  width: 316px;
+  height: 202px;
+  padding: 60px 6px 60px 6px;
+}
+
+footer {
+  background-color: #1e1a13;
+  padding: 39px;
+}
+
+
+
+/*
+font-weight:
+Raleway Light (300).
+Raleway Medium (500).
+
+Colores:
+#000000
+#ffffff
+#1e1a13
+
+Íconos (Font Awesome):
+far fa-eye
+fab fa-hand-peace
+fas fa-paint-brush*/

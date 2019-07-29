@@ -1,0 +1,15 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.success {
+  background: #28A745;
+  color: #fff;
+}
+
+.text-success {
+  color: #28A745;
+}
+ .bg-footer {
+   color: #707070;
+ }
